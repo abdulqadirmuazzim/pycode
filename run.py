@@ -1,9 +1,9 @@
 # A PROGRAM TO HACK A PASSWORD
 
-from som import rand
+from som import rand, Password
 import subprocess as sub
 
-ano = '0HFICxyeJvOCN'
+ano = Password
 
 num = 0
 
